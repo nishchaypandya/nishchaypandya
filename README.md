@@ -12,7 +12,7 @@
 - 💬 Ask me about **Html,css,boostarp,Php,Laravel,codeigniter,React,Angular,Node,vue,symphony,next.js,tailwind,wordpress,jomla,wix,bubble.io.**
 
 
-- 📫 How to reach me **nishchaypandya10@gmail.com**
+- 📫 How to reach me **nishchaypandya461012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
